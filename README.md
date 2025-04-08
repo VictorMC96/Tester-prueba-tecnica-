@@ -34,7 +34,6 @@ Recuerda que en cada escenario de prueba debes proporcionar pasos claros, condic
 * Cada pregunta requiere que escribas escenarios de prueba en formato Gherkin para el caso de uso indicado. Por favor, asegúrate de incluir pasos, condiciones y resultados esperados.
 * Se espera que consideres la minuciosidad en las pruebas, especialmente en la integración entre el backend, back office y las aplicaciones móviles, dada la alta carga de transacciones esperadas.
 
-#### **Examen** 
 #### 1. Registro de Usuario desde la Aplicación Móvil (iOS y Android)
 Escribe un escenario de prueba Gherkin para verificar el proceso de registro de un nuevo usuario desde ambas aplicaciones móviles (iOS y Android). Asegúrate de incluir condiciones y resultados esperados.
 
@@ -53,8 +52,7 @@ Escribe un escenario de prueba Gherkin para evaluar el rendimiento del sistema a
 #### 6. Actualización de Estado de Transacción desde la Aplicación Móvil (Android)
 Escribe un escenario de prueba Gherkin para verificar la capacidad de la aplicación móvil en Android para actualizar el estado de una transacción. Asegúrate de incluir pasos, condiciones y resultados esperados.
 
----
-
+***
 ###  Bloque 2. Ejercicios técnicos #
 
 #### Ejercicio 1.
@@ -63,29 +61,20 @@ Escribe un programa en Java que verifique si una palabra es un palíndromo. Un p
 #### Ejercicio 2.
 Genera los referentes identificadores (xpath) para un mismo elemento en appium.
 
----
+***
 ###  Bloque 3. Preguntas abiertas #
 
 1. ¿Cuál es la diferencia entre pruebas de carga y estrés?
-
 2. ¿Qué probarías si tuvieras que probar una nueva versión que solventa un bug crítico en producción?
-
 3. ¿Cómo reportarías los bugs encontrados hacía los desarrolladores?
-
 4. ¿Cómo le darías seguimiento a bugs reportados a Desarrollo?
-
 5. ¿Cuál serían los niveles de severidad que manejarías para reportar bugs y con base en qué?
-
-6. ¿Puedes explicar qué es la metodología de pruebas Ágil y cuáles son sus principios fundamentales?
-
+6. ¿Qué es la metodología de pruebas Ágil y cuáles son sus principios fundamentales?
 7. ¿Cuál es la diferencia entre pruebas funcionales y pruebas no funcionales? Proporciona ejemplos de cada una.
-
 8. ¿Qué es la automatización de pruebas y cuáles serían algunos casos donde sería más beneficioso automatizar pruebas en lugar de realizar pruebas manuales?
-
-9. ¿Puedes mencionar algunas herramientas populares de automatización de pruebas y describir en qué escenarios podrían ser más útiles?
-
+9. Menciona algunas herramientas populares de automatización de pruebas y describe en qué escenarios podrían ser más útiles.
 10. ¿Qué casos no automatizarías?
 
-
+***
 
 En Neology somos fieles creyentes de la transparencia, honestidad, crecimiento y aprendizaje  por lo que agradecemos se pueda llevar a cabo la prueba sin ayuda de terceros o herramientas adicionales. 
